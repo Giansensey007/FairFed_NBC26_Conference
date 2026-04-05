@@ -1,0 +1,37 @@
+[
+  {
+    "round": 1,
+    "gas_used": 316630,
+    "gas_price_gwei": 0.00100022,
+    "cost_eth": 3.2e-07,
+    "tx_hash": "c2025d6ff8e16b56a35e5d5980f42f2e4e8fbedc2c74bb0763390cf12dbc43a3"
+  },
+  {
+    "round": 5,
+    "gas_used": 145630,
+    "gas_price_gwei": 0.001000223,
+    "cost_eth": 1.5e-07,
+    "tx_hash": "136ff895fdd163920b23b39ab2c4194d534762395c8f72368c7a0809f4531235"
+  },
+  {
+    "round": 10,
+    "gas_used": 145606,
+    "gas_price_gwei": 0.001000231,
+    "cost_eth": 1.5e-07,
+    "tx_hash": "2741d79c21ac3cc7dd50684246aa73e0e7eb2f4f90f92494e3c3e858395441e7"
+  },
+  {
+    "round": 15,
+    "gas_used": 145618,
+    "gas_price_gwei": 0.001000235,
+    "cost_eth": 1.5e-07,
+    "tx_hash": "55f26e5cac7618637a12ad4a3d388b5e61840a26bd01a303fd5ea82d6602033d"
+  },
+  {
+    "round": 20,
+    "gas_used": 145630,
+    "gas_price_gwei": 0.001000219,
+    "cost_eth": 1.5e-07,
+    "tx_hash": "8b457e2a761b25bd1c3302294d87f97a3489ca2007139bf8c06b40c85faefe00"
+  }
+]
