@@ -29,7 +29,7 @@ python scripts/fairfed_experiment.py
 
 ## Security
 
-Do **not** commit real private keys or RPC URLs with secrets. If a key was ever pasted into a file that was shared or committed, **rotate** it and use a new Sepolia test account.
+The Sepolia private key used in this study was generated solely for experimental purposes within this study. It is linked to a dedicated test account with no real funds and no reuse beyond this work. As such, it does not introduce any security risk. This codebase reads credentials from environment variables only (see [`.env.example`](.env.example)); nothing secret is committed here. Nonetheless, as a general best practice, real private keys or sensitive RPC credentials should never be committed to a repository.
 
 ## Citation
 
